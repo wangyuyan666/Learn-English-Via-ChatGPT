@@ -1,4 +1,4 @@
-00
+# Learn-English-Via-ChatGPT
 
 ## 1.什么是 ChatGPT
 
@@ -14,14 +14,10 @@
 
 ## 2.如何学英语
 
-------
-
 首先来看看ChatGPT关于`如何学好英语`的回答
 ![](./assets/SCR-20230329-mzqe.png)
 
 是不是感觉说的句句在理🐶
-
-------
 
 下面将从词汇、语法、听力、口语、写作几个方面介绍一下如何利用ChatGPT来帮助我们学习英语
 
@@ -29,15 +25,11 @@
 
 ### 2.1 翻译
 
-------
-
 作为大语言模型，翻译还不是信手拈来～
 
 ![](./assets/SCR-20230329-nheb.png)
 
 ### 2.2 词汇
-
-------
 
 * 记忆单词
 
@@ -59,8 +51,6 @@
 
 ### 2.3 语法
 
-------
-
 * 直接学习某种语法：
   
   > 请详细给我讲解一下英语中的定语从句，并举例说明
@@ -75,8 +65,6 @@
 
 ## 2.4 口语和听力
 
----
-
 上面的部分打开聊天窗口直接聊就能完成了，但是练习口语和听力的话就需要一些其他插件的帮助了，这里用到的插件是 [Talk-to-ChatGPT](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) 可以点击链接去安装插件。
 
 这部分不能用图片来展现，可以点击下方视频链接查看具体用法
@@ -85,16 +73,12 @@
 
 ### 3.prompts
 
-------
-
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-- [ChatGPT Shortcut](https://newzone.top/chatgpt/)\
+- [ChatGPT Shortcut](https://newzone.top/chatgpt/)
 - [ChatGPT 指令大全](https://www.explainthis.io/zh-hant/chatgpt)
 - [ChatGPT 中文调教指南](https://chatguide.plexpt.com/)
 
 ### 4.一些工具
-
-------
 
 - [ChatGPT镜像](https://github.com/xx025/carrot) 这儿为你准备了众多免费好用的ChatGPT镜像站点
 
@@ -106,16 +90,12 @@
 
 ### 5.群
 
-------
-
 建了一个学英语的群，希望大家一起学英语，一起打卡，一起进步
 如果你有任何疑问，也可以加群一起交流
 
-![](./assets/WechatIMG166.jpeg)  
+![](./assets/WechatIMG166.jpeg)
 
-### 6.群
-
-------
+### 6.贡献
 
 以上示例只是使用 ChatGPT 的冰山一角，欢迎通过 issue 或 PR 提交你的玩法，优质资源😊
 也欢迎各种贡献，包括修复错误、添加新功能和改进文档
